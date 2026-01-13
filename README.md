@@ -1,6 +1,3 @@
-# UART-Verification
-Communication Protocol Verification of UART
-
 # UART Basic Verification Environment
 
 This project implements a SystemVerilog class-based verification environment for a basic UART design. The RTL includes parameterized transmitter and receiver modules with configurable clock frequency and baud rate.
